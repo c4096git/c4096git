@@ -1,1 +1,1 @@
-<font size='100'>Hello World!</font>
+<font size='12'>Hello World!</font>
